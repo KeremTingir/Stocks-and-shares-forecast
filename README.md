@@ -1,4 +1,4 @@
-# Stocks-_and_shares_forecast
+# Stocks-and-shares-forecast
 Turkish Airlines stock forecast 
 
 With the API key you have received, you can pull the data of the stock you want. We pulled the data of Turkish Airlines between 2020 and 2024. 
